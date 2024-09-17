@@ -3,7 +3,7 @@ sridharparshana.github.io/portfolio
 
 # 👋 Sridhar Parshana | Data Analyst
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](www.linkedin.com/in/sridharparshana)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/sridharparshana)
 **Email**: parshanasridhar@gmail.com  
 **Mobile**: +91 7288075492  
 

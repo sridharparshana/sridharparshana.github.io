@@ -1,6 +1,3 @@
-# sridharparshana.github.io
-sridharparshana.github.io/portfolio
-
 # 👋 Sridhar Parshana | Data Analyst
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/sridharparshana)

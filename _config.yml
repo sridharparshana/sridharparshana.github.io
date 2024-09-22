@@ -1,8 +1,4 @@
 title: Sridhar Parshana
 show_downloads: true
 theme: jekyll-theme-minimal
----
-
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/sridharparshana/BI-reports/myones/IMG20231008145502.jpg" alt="Sridhar's Profile Picture" width="150" style="border-radius: 50%;" />
-</div>
+profile_picture: https://raw.githubusercontent.com/sridharparshana/BI-reports/myones/IMG20231008145502.jpg

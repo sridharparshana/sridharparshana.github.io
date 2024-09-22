@@ -71,8 +71,10 @@ CGPA: **8.0**
 
 ## 💼 Featured Projects
 
-### [📈 Sales Dashboard with Power BI](https://github.com/your-repo-link)
-- Built an interactive Power BI dashboard for a large dataset with over 10,000 sales records, providing insights into sales performance by product category, region, and time period.
+### [📈 Sales Dashboard with Power BI]([https://github.com/your-repo-link](https://github.com/sridharparshana/BI-reports/blob/myones/Interactive%20Power%20BI%20Project.pdf))
+- Built an interactive Power BI dashboard for a large dataset with over 1,00,000 sales records, providing insights into sales performance by product category, region, and time period.
+- The screen distributes orders region-wise based on stock availability and proximity to nearby states, utilizing DAX formulas to assign the suggested "ship from" location.
+- Created a screen to display transferred stocks between locations, featuring multiple filter options for better data analysis.
 
 ### [🔍 Web Scraping with Python](https://github.com/your-repo-link)
 - Developed a Python script to scrape data from e-commerce websites, including product information, pricing, and availability, and visualized the data for analysis.

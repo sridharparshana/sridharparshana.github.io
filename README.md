@@ -4,6 +4,8 @@
 **Email**: parshanasridhar@gmail.com  
 **Mobile**: +91 7288075492  
 
+![My Image](https://github.com/sridharparshana/BI-reports/blob/myones/IMG20231008145502.jpg)
+
 ---
 
 ## 📊 About Me

@@ -76,7 +76,7 @@ CGPA: **8.0**
 - The screen distributes orders region-wise based on stock availability and proximity to nearby states, utilizing DAX formulas to assign the suggested "ship from" location.
 - Created a screen to display transferred stocks between locations, featuring multiple filter options for better data analysis.
 
-### [Website Order Import Automation via API Integration Using Python](https://github.com/sridharparshana/python_projects/blob/myones/importing%20the%20orders%20using%20API.py)
+### [🐍 Website Order Import Automation via API Integration Using Python](https://github.com/sridharparshana/python_projects/blob/myones/importing%20the%20orders%20using%20API.py)
 - Developed a Python script to import data from the ShipStation website via API.
 - The script filters and modifies the imported data according to local requirements.
 - For each record, it calls a procedure to attach the necessary information for database tables.

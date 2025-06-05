@@ -6,9 +6,7 @@
 
 <div style="display: flex; align-items: center;">
     <img src="https://raw.githubusercontent.com/sridharparshana/BI-reports/myones/IMG20231008145502.jpg" alt="Sridhar's Profile Picture" width="150" style="border-radius: 50%; margin-right: 20px;" />
-    <div>
-        <p>I am a Data Analyst with two years of experience in utilizing MySQL, Python, Power BI, and advanced Excel to solve complex business problems. My expertise includes data modeling, data visualization, statistical analysis, and business intelligence. I am passionate about using data to drive decision-making and improve business performance.</p>
-    </div>
+
 </div>
 
 ---

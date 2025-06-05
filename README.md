@@ -2,144 +2,175 @@
 <html lang="en">
 
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Sridhar's Project Portfolio</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sridhar Parshana | Portfolio</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;700&display=swap" rel="stylesheet">
   <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Roboto', sans-serif;
+    }
+
     body {
-      margin: 0;
-      font-family: Arial, sans-serif;
-      background: #f8f9fa;
+      background-color: #f4f4f4;
+      color: #333;
     }
+
     header {
-      background: #343a40;
+      background-color: #1a1a1a;
       color: white;
-      padding: 20px 40px;
+      padding: 3rem 1rem;
       text-align: center;
     }
-    h1 {
-      margin: 0;
-      font-size: 2.5em;
+
+    header img {
+      width: 120px;
+      border-radius: 50%;
+      margin-top: 1rem;
     }
-    .filters {
-      text-align: center;
-      margin: 20px 0;
+
+    header h1 {
+      font-size: 2.5rem;
+      margin-bottom: 0.5rem;
     }
-    .filters button {
-      background: #e9ecef;
-      border: none;
-      padding: 10px 20px;
-      margin: 5px;
-      border-radius: 4px;
-      cursor: pointer;
+
+    header p {
+      font-size: 1.2rem;
+      color: #aaa;
     }
-    .filters button.active,
-    .filters button:hover {
-      background: #007bff;
+
+    nav {
+      background-color: #333;
+      padding: 1rem;
+      display: flex;
+      justify-content: center;
+      gap: 2rem;
+    }
+
+    nav a {
       color: white;
+      text-decoration: none;
+      font-weight: bold;
     }
-    .projects {
+
+    section {
+      padding: 2rem 1rem;
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+
+    .section-title {
+      font-size: 2rem;
+      margin-bottom: 1rem;
+    }
+
+    .skills {
       display: flex;
       flex-wrap: wrap;
-      justify-content: center;
-      gap: 30px;
-      padding: 20px;
+      gap: 1rem;
     }
-    .project-card {
+
+    .skill {
+      background-color: #e0e0e0;
+      padding: 0.5rem 1rem;
+      border-radius: 1rem;
+    }
+
+    .projects {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 2rem;
+    }
+
+    .project {
       background: white;
-      border-radius: 8px;
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-      width: 300px;
-      overflow: hidden;
-      transition: transform 0.3s ease;
+      padding: 1rem;
+      border-radius: 10px;
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
     }
-    .project-card:hover {
-      transform: scale(1.02);
+
+    .project img {
+      max-width: 100%;
+      border-radius: 10px;
     }
-    .project-card img {
-      width: 100%;
-      height: 180px;
-      object-fit: cover;
+
+    .project h3 {
+      margin-top: 1rem;
     }
-    .project-content {
-      padding: 20px;
-    }
-    .project-content h3 {
-      margin-top: 0;
-    }
-    .project-content p {
-      color: #555;
-    }
-    .project-links a {
-      display: inline-block;
-      margin-top: 10px;
-      margin-right: 10px;
+
+    .project a {
       color: #007bff;
       text-decoration: none;
+      margin-right: 1rem;
+    }
+
+    footer {
+      text-align: center;
+      padding: 2rem;
+      font-size: 0.9rem;
+      color: #aaa;
     }
   </style>
 </head>
 
 <body>
   <header>
-    <h1>My Latest Projects</h1>
-    <p>Explore my hands-on work in data analytics, ML, and visualization</p>
+    <h1>Sridhar Parshana</h1>
+    <p>Senior Data Analyst | Power BI | SQL | Python | E-commerce Specialist</p>
+    <img src="your_photo_url_here.jpg" alt="Sridhar Parshana">
   </header>
 
-  <div class="filters">
-    <button class="active" onclick="filterProjects('all')">Show all</button>
-    <button onclick="filterProjects('data-viz')">Data Viz</button>
-    <button onclick="filterProjects('ml')">Machine Learning</button>
-    <button onclick="filterProjects('web-dev')">Web Development</button>
-  </div>
+  <nav>
+    <a href="#skills">Skills</a>
+    <a href="#projects">Projects</a>
+    <a href="https://github.com/sridharparshana" target="_blank">GitHub</a>
+  </nav>
 
-  <div class="projects">
-    <!-- LinkedIn Job Classification Project -->
-    <div class="project-card" data-category="ml">
-      <img src="https://raw.githubusercontent.com/sridharparshana/python_projects/myones/linkedin_image.png" alt="LinkedIn ML" />
-      <div class="project-content">
-        <h3>LinkedIn Job Classification</h3>
-        <p>Classified job roles from LinkedIn listings into Engineering vs Non-Engineering using NLP and ML models.</p>
-        <small><i>May 2025</i></small>
-        <div class="project-links">
-          <a href="https://github.com/sridharparshana/python_projects/blob/myones/Linkedin_Job_Classification.ipynb" target="_blank">GitHub</a>
-          <a href="https://colab.research.google.com/github/sridharparshana/python_projects/blob/myones/Linkedin_Job_Classification.ipynb" target="_blank">Open in Colab</a>
-        </div>
-      </div>
+  <section id="skills">
+    <h2 class="section-title">Skills</h2>
+    <div class="skills">
+      <span class="skill">Power BI</span>
+      <span class="skill">SQL</span>
+      <span class="skill">Python</span>
+      <span class="skill">Data Visualization</span>
+      <span class="skill">E-commerce Analytics</span>
+      <span class="skill">ETL</span>
+      <span class="skill">Inventory Forecasting</span>
     </div>
+  </section>
 
-    <!-- Add more projects here as needed -->
-    <!-- Example Placeholder -->
-    <div class="project-card" data-category="data-viz">
-      <img src="https://raw.githubusercontent.com/sridharparshana/assets/main/project_images/powerbi_dashboard.png" alt="Dashboard" />
-      <div class="project-content">
+  <section id="projects">
+    <h2 class="section-title">Projects</h2>
+    <div class="projects">
+      <div class="project">
+        <img src="https://i.imgur.com/U3vTGjX.png" alt="Sales Dashboard">
         <h3>Sales Dashboard (Power BI)</h3>
         <p>Interactive report showing product movement, stock trends, and KPIs for Amazon and Shopify.</p>
-        <small><i>Apr 2025</i></small>
-        <div class="project-links">
-          <a href="https://github.com/sridharparshana/bi_dashboards" target="_blank">GitHub</a>
-        </div>
+        <a href="https://github.com/sridharparshana/sales-dashboard" target="_blank">GitHub</a>
+      </div>
+      <div class="project">
+        <img src="https://i.imgur.com/tH6L8Xt.png" alt="LinkedIn Classification">
+        <h3>LinkedIn Job Classification</h3>
+        <p>Classified job roles from LinkedIn listings into Engineering vs Non-Engineering using NLP and ML models.</p>
+        <a href="https://github.com/sridharparshana/linkedin-classifier" target="_blank">GitHub</a>
+        <a href="https://colab.research.google.com/drive/xyz" target="_blank">Open in Colab</a>
+      </div>
+      <div class="project">
+        <img src="https://i.imgur.com/3hZ8cEm.png" alt="AWS EC2 Automation">
+        <h3>AWS EC2 Shutdown Script</h3>
+        <p>Automated script to shut down AWS EC2 instances using Bash, reducing cloud costs.</p>
+        <a href="https://github.com/sridharparshana/aws-ec2-shutdown" target="_blank">GitHub</a>
       </div>
     </div>
+  </section>
 
-  </div>
-
-  <script>
-    function filterProjects(category) {
-      const buttons = document.querySelectorAll('.filters button');
-      buttons.forEach(btn => btn.classList.remove('active'));
-      event.target.classList.add('active');
-
-      const cards = document.querySelectorAll('.project-card');
-      cards.forEach(card => {
-        if (category === 'all' || card.getAttribute('data-category') === category) {
-          card.style.display = 'block';
-        } else {
-          card.style.display = 'none';
-        }
-      });
-    }
-  </script>
+  <footer>
+    Hosted on GitHub Pages — Portfolio by Sridhar Parshana
+  </footer>
 </body>
 
 </html>

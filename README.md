@@ -121,7 +121,7 @@
   <header>
     <h1>Sridhar Parshana</h1>
     <p>Senior Data Analyst | Power BI | SQL | Python | E-commerce Specialist</p>
-    <img src="your_photo_url_here.jpg" alt="Sridhar Parshana">
+    <img src="https://raw.githubusercontent.com/sridharparshana/BI-reports/myones/IMG20231008145502.jpg" alt="Sridhar Parshana">
   </header>
 
   <nav>

@@ -1,4 +1,4 @@
-# 👋 Sridhar Parshana | Data Analyst
+# Sridhar Parshana | Data Analyst
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sridharparshana)  
 📧 **Email**: parshanasridhar@gmail.com  
@@ -88,8 +88,3 @@ JNTU Hyderabad (2017 – 2021) | CGPA: **8.0**
 > ✅ Full pipeline: TF-IDF → Label Encoding → Model Training (Logistic, RF, XGBoost, SVM)  
 > ✅ EDA visualizations and Feature Importance plots included
 
-```python
-# Sample snippet: Data import and exploration
-import pandas as pd
-df = pd.read_csv('/kaggle/input/linkedin-data-jobs-dataset/clean_jobs.csv')
-df['target'] = df['title'].apply(lambda x: 1 if 'engineer' in str(x).lower() else 0)

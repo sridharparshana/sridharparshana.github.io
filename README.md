@@ -1,108 +1,101 @@
-# 👋 Sridhar Parshana | Data Analyst
+# 👋 Hi, I'm **Sridhar Parshana** – Data Analyst & BI Enthusiast  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/sridharparshana)
-**Email**: parshanasridhar@gmail.com  
-**Mobile**: +91 7288075492  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sridharparshana)
+[![Email](https://img.shields.io/badge/Email-Me-red?style=flat-square&logo=gmail)](mailto:parshanasridhar@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Projects-9cf?style=flat-square&logo=github)](https://github.com/sridharparshana)
+[![GitHub followers](https://img.shields.io/github/followers/sridharparshana?style=social)](https://github.com/sridharparshana)
 
-<div style="display: flex; align-items: center;">
-    <img src="https://raw.githubusercontent.com/sridharparshana/BI-reports/myones/IMG20231008145502.jpg" alt="Sridhar's Profile Picture" width="150" style="border-radius: 50%; margin-right: 20px;" />
+---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sridharparshana/BI-reports/myones/IMG20231008145502.jpg" width="180" style="border-radius: 50%; border: 2px solid #ddd;"/>
 </div>
 
 ---
 
 ## 📊 About Me
 
-I am a Data Analyst with two years of experience in utilizing MySQL, Python, Power BI, and advanced Excel to solve complex business problems. My expertise includes data modeling, data visualization, statistical analysis, and business intelligence. I am passionate about using data to drive decision-making and improve business performance.
+🎯 **Results-driven Data Analyst** with 3+ years of hands-on experience turning raw datasets into actionable insights using **Power BI**, **SQL**, and **Python**.  
+📈 Passionate about data-driven decision making, dashboarding, and business intelligence that **drives growth** and **saves time**.
 
 ---
 
-## 🚀 Skills & Expertise
+## 💼 Current Role
 
-### Technical Skills
-- **Languages**: SQL, Python, DAX, Advanced Excel
-- **Databases**: MySQL (Procedures, Triggers, Joins, CTEs, Window Functions, etc.)
-- **Data Visualization**: Power BI (Reports, Dashboards, Data Modeling, DAX, Power Query)
-- **Python Libraries**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
-- **Statistics**: Hypothesis Testing, Regression, Predictive Modeling, Probability Theory
-- **Other**: ZOHO Books, Stock Maintenance
+**🔹 Data Analyst – Nova Web Innovations Pvt. Ltd. (Feb 2023 – Present)**  
+- Led Power BI dashboard development across Amazon, Walmart, and Shopify.
+- Automated reporting systems, cutting manual work by 25%.
+- Designed predictive models improving forecast accuracy by 20%.
+- Transformed raw sales/stock data into **actionable, visual insights**.
 
 ---
 
-## 🛠️ Tools
-- **Power BI**: ETL, Reports, Dashboards, DAX
-- **Fabric**: Gateway premise, online reports, scheduled refresh, warehouse connection
-- **Python**: Data Analysis, Web Scraping, Predictive Modeling
-- **Excel**: Data Validation, Pivot Tables, ANOVA, T-tests, Correlation, Descriptive Statistics
+## 🚀 Skills
+
+| Category        | Tools / Tech                                                                 |
+|----------------|-------------------------------------------------------------------------------|
+| **Languages**   | SQL, Python, DAX, Excel                                                      |
+| **Databases**   | MySQL (CTEs, Joins, Triggers, Procedures)                                   |
+| **Visualization** | Power BI (DAX, Power Query, Data Modeling)                                 |
+| **Python Stack**| Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn                            |
+| **Statistics**  | Hypothesis Testing, Regression, ANOVA, Forecasting                          |
+| **Other Tools** | ZOHO Books, API Integration, Inventory Management                           |
+
+---
+
+## 🛠 Tools in Action
+
+- **Power BI**: Advanced dashboards, KPIs, and cross-platform sales analytics  
+- **Python**: API automation, cleaning datasets, predictive modeling  
+- **Excel**: Advanced formulas, statistical testing, pivot reporting  
 
 ---
 
 ## 🏆 Certifications
-- **Google Data Analytics** (08/2022)
+
+- 📚 **Google Data Analytics – Coursera (Aug 2022)**
 
 ---
 
-## 💼 Professional Experience
+## 🔥 Highlight Projects
 
-### **Nova Web Innovations Private Limited** | _Feb 2023 – Present_  
-**Data Analyst**
-
-- Managed and analyzed sales datasets from platforms like Amazon, Walmart, and Shopify, optimizing inventory and pricing strategies. Resulted in a **25% increase in business growth**.
-- Conducted annual sales, customer, and seasonal product analyses to inform strategic decisions, contributing to a **15% increase in growth**.
-- Developed regression models to predict product demand by region, leading to a **20% increase in sales**.
-- Built Power BI dashboards to streamline stock management, reducing inventory processing time by **20%**.
-
-### **Trainity** | _Nov 2022 – Feb 2023_  
-**Data Analyst Intern**
-
-- Cleaned and prepared large datasets, increasing data accuracy and leading to a **20% improvement in customer satisfaction**.
-- Implemented SQL and Power BI for data analysis, improving process efficiency by **15%**.
-
-### **Sujata Forge Private Limited** | _Dec 2021 – Sep 2022_  
-**Quality Engineer**
-
-- Led quality improvement projects that enhanced product reliability by **20%** and reduced production costs by **15%**.
-- Reduced product defects by **35%** through root cause analysis and process improvements.
+### 📈 [**Interactive Sales Dashboard**](https://github.com/sridharparshana/BI-reports/blob/myones/Interactive%20Power%20BI%20Project.pdf)
+> Built a regional & time-based sales dashboard for 1,00,000+ records using Power BI  
+> 🚚 Enabled dynamic "Ship From" suggestions using advanced DAX  
+> 🔁 Visualized inter-location stock transfers with filters and KPIs
 
 ---
 
-## 🎓 Education
-
-**B. Tech – Mechanical Engineering**  
-Jawaharlal Nehru Technological University Hyderabad (JNTUH) | **2017-2021**  
-CGPA: **8.0**
-
----
-
-## 💼 Featured Projects
-
-### [📈 Sales Dashboard with Power BI](https://github.com/sridharparshana/BI-reports/blob/myones/Interactive%20Power%20BI%20Project.pdf)
-- Built an interactive Power BI dashboard for a large dataset with over 1,00,000 sales records, providing insights into sales performance by product category, region, and time period.
-- The screen distributes orders region-wise based on stock availability and proximity to nearby states, utilizing DAX formulas to assign the suggested "ship from" location.
-- Created a screen to display transferred stocks between locations, featuring multiple filter options for better data analysis.
-
-### [🐍 Website Order Import Automation via API Integration Using Python](https://github.com/sridharparshana/python_projects/blob/myones/importing%20the%20orders%20using%20API.py)
-- Developed a Python script to import data from the ShipStation website via API.
-- The script filters and modifies the imported data according to local requirements.
-- For each record, it calls a procedure to attach the necessary information for database tables.
+### 🐍 [**Website Order Import Automation**](https://github.com/sridharparshana/python_projects/blob/myones/importing%20the%20orders%20using%20API.py)
+> Developed a Python script to pull, clean, and transform orders from ShipStation API  
+> 🔗 Integrated with MySQL procedures for seamless DB updates  
+> 💡 Reduced manual order handling effort significantly
 
 ---
 
-## 📬 Contact Me
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sridharparshana) or reach out via email at **parshanasridhar@gmail.com**.
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sridharparshana&show_icons=true&theme=radical" />
+</p>
 
 ---
 
-## ⚡ Achievements
-- Solved **1500+ problems** posted by international students in the field of **Applied Statistics**.
-- Awarded **Best Performer of the Month** at Nova Web Innovations for exemplary work in data analysis.
+## 📌 Achievements
+
+- 🥇 **Best Performer of the Month – Nova Web Innovations**
+- ✅ Solved **1500+ problems** related to Applied Statistics for global learners
+- 🛠 Built automated solutions that saved hours of daily manual work
 
 ---
 
-## 📂 GitHub Stats
-![Sridhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sridharparshana&show_icons=true&theme=radical)
+## 📬 Let's Connect
+
+- 📧 Email: [parshanasridhar@gmail.com](mailto:parshanasridhar@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/sridharparshana](https://www.linkedin.com/in/sridharparshana)  
+- 🧠 Personal Mantra: *"Data speaks, if you know how to listen."*
 
 ---
 
-
+⭐ If you like my work, don’t forget to ⭐ star my repositories and follow me for more!
 

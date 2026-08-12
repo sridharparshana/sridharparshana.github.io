@@ -22,7 +22,7 @@
 
 ## 💼 Current Role
 
-**🔹 Data Analyst – Nova Web Innovations Pvt. Ltd. (Feb 2023 – Present)**  
+**🔹 Data Analyst – Nova Web Innovations Pvt. Ltd. (Feb 2023 – Sep 2026)**  
 - Led Power BI dashboard development across Amazon, Walmart, and Shopify.
 - Automated reporting systems, cutting manual work by 25%.
 - Designed predictive models improving forecast accuracy by 20%.
@@ -35,7 +35,7 @@
 | Category        | Tools / Tech                                                                 |
 |----------------|-------------------------------------------------------------------------------|
 | **Languages**   | SQL, Python, DAX, Excel                                                      |
-| **Databases**   | MySQL (CTEs, Joins, Triggers, Procedures)                                   |
+| **Databases**   | MySQL, CloudSQL (CTEs, Joins, Triggers, Procedures)                                   |
 | **Visualization** | Power BI (DAX, Power Query, Data Modeling)                                 |
 | **Python Stack**| Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn                            |
 | **Statistics**  | Hypothesis Testing, Regression, ANOVA, Forecasting                          |
